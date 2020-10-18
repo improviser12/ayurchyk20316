@@ -1,0 +1,14 @@
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\bin\Debug\Calculator.WPF.lab2.exe.config
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\bin\Debug\Calculator.WPF.lab2.exe
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\bin\Debug\Calculator.WPF.lab2.pdb
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\Calculator.WPF.lab2.csprojAssemblyReference.cache
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\MainWindow.g.cs
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\App.g.cs
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\Calculator.WPF.lab2_MarkupCompile.cache
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\Calculator.WPF.lab2_MarkupCompile.lref
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\MainWindow.baml
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\Calculator.WPF.lab2.g.resources
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\Calculator.WPF.lab2.Properties.Resources.resources
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\Calculator.WPF.lab2.csproj.GenerateResource.cache
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\Calculator.WPF.lab2.exe
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator.WPF.lab2\Calculator.WPF.lab2\obj\Debug\Calculator.WPF.lab2.pdb
