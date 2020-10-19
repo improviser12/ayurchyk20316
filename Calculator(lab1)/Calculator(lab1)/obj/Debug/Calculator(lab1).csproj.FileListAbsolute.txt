@@ -1,0 +1,6 @@
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator(lab1)\Calculator(lab1)\bin\Debug\Calculator(lab1).exe.config
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator(lab1)\Calculator(lab1)\bin\Debug\Calculator(lab1).exe
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator(lab1)\Calculator(lab1)\bin\Debug\Calculator(lab1).pdb
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator(lab1)\Calculator(lab1)\obj\Debug\Calculator(lab1).csprojAssemblyReference.cache
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator(lab1)\Calculator(lab1)\obj\Debug\Calculator(lab1).exe
+D:\Rok 3 Informatyka\Projektowanie i programowanie w środowiskach graficznych\Calculator(lab1)\Calculator(lab1)\obj\Debug\Calculator(lab1).pdb
