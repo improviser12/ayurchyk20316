@@ -21,6 +21,7 @@ namespace Calculator.WPF.lab2
     /// </summary>
     public partial class MainWindow : Window
     {
+        #region DeklaracjaZmiennych
         //po przecinku można wpisać tylko 5 znaków
         private float fnum;
         private float snum;
@@ -30,13 +31,15 @@ namespace Calculator.WPF.lab2
         bool minusBut = false;
         bool multiplyBut = false;
         bool divideBut = false;
+        #endregion
 
         public MainWindow()
         {
             InitializeComponent();
             poleEd1.Focus();
         }
-
+        
+        #region 741
         private void num7_Click(object sender, RoutedEventArgs e)
         {
             poleEd1.Text += "7";
@@ -51,7 +54,9 @@ namespace Calculator.WPF.lab2
         {
             poleEd1.Text += "1";
         }
+        #endregion
 
+        #region zmianaZnaku
         private void changeSymb_Click(object sender, RoutedEventArgs e)
         {
             if(poleEd1.Text.StartsWith("-"))
@@ -64,7 +69,9 @@ namespace Calculator.WPF.lab2
             }
             
         }
+        #endregion
 
+        #region 8520
         private void num8_Click(object sender, RoutedEventArgs e)
         {
             poleEd1.Text += "8";
@@ -84,7 +91,9 @@ namespace Calculator.WPF.lab2
         {
             poleEd1.Text += "0";
         }
+        #endregion
 
+        #region 963
         private void num9_Click(object sender, RoutedEventArgs e)
         {
             poleEd1.Text += "9";
@@ -99,7 +108,9 @@ namespace Calculator.WPF.lab2
         {
             poleEd1.Text += "3";
         }
+        #endregion
 
+        #region przecinek
         private void comma_Click(object sender, RoutedEventArgs e)
         {
             if (!poleEd1.Text.Contains(","))
@@ -107,7 +118,9 @@ namespace Calculator.WPF.lab2
                 poleEd1.Text += ",";
             }
         }
+        #endregion
 
+        #region DivideMyltiplyMinusPlus
         private void divide_Click(object sender, RoutedEventArgs e)
         {
             if (poleEd1.Text == "")
@@ -159,7 +172,9 @@ namespace Calculator.WPF.lab2
             plusBut = true;
             poleEd1.Focus();
         }
+        #endregion
 
+        #region Equals
         private void equals_Click(object sender, RoutedEventArgs e)
         {
 
@@ -210,7 +225,9 @@ namespace Calculator.WPF.lab2
             }
             poleEd1.Focus();
         }
+        #endregion
 
+        #region Delete
         private void dellAll_Click(object sender, RoutedEventArgs e)
         {
             poleEd1.Clear();
@@ -223,6 +240,7 @@ namespace Calculator.WPF.lab2
             poleEd1.Clear();
             poleEd1.Focus();
         }
+        #endregion
 
         #region Check_letters
         public bool ValidNumericString(string IPString)
