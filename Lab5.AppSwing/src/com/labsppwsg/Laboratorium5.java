@@ -63,9 +63,9 @@ public class Laboratorium5 extends JFrame{
         //statusBar
         JLabel label = new JLabel("status:");
         label.setBorder(new BevelBorder(BevelBorder.LOWERED));
-        gbc.gridx = 2;
+        gbc.gridx = 0;
         gbc.gridy = 3;
-        gbc.gridwidth = 1;
+        gbc.gridwidth = 5;
         gbc.gridheight = 1;
         gbc.weighty = 0.1;
         gbl.setConstraints(label,gbc);
@@ -80,7 +80,7 @@ public class Laboratorium5 extends JFrame{
         gbc.gridx = 1;
         gbc.gridy = 0;
         gbc.gridwidth = 1;
-        gbc.gridheight = 4;
+        gbc.gridheight = 3;
         gbl.setConstraints(paletaLeft1,gbc);
         add(paletaLeft1);
 
@@ -89,7 +89,7 @@ public class Laboratorium5 extends JFrame{
         gbc.gridx = 0;
         gbc.gridy = 0;
         gbc.gridwidth = 1;
-        gbc.gridheight = 4;
+        gbc.gridheight = 3;
         gbl.setConstraints(paletaLeft2,gbc);
         add(paletaLeft2);
 
@@ -99,7 +99,7 @@ public class Laboratorium5 extends JFrame{
         gbc.gridx = 3;
         gbc.gridy = 0;
         gbc.gridwidth = 1;
-        gbc.gridheight = 4;
+        gbc.gridheight = 3;
         gbl.setConstraints(paletaRight1,gbc);
         add(paletaRight1);
 
@@ -108,7 +108,7 @@ public class Laboratorium5 extends JFrame{
         gbc.gridx = 4;
         gbc.gridy = 0;
         gbc.gridwidth = 1;
-        gbc.gridheight = 4;
+        gbc.gridheight = 3;
         gbl.setConstraints(paletaRight2,gbc);
         add(paletaRight2);
 
