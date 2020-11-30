@@ -15,35 +15,19 @@ public class notGridBag extends JFrame {
         Container container = getContentPane();
 
         //JPanel grid = new JPanel(new GridLayout(2, 5, 2, 2) );
+        JPanel subPanel = new JPanel();
+        subPanel.add(paletaLeft2 = new JButton("maxLeft"));
+        subPanel.add(paletaLeft1 = new JLabel("nearLeft"));
+        subPanel.add(txt = new JTextField("Hello world!"));
+        subPanel.add(paletaRight1 = new JLabel("nearRight"));
+        subPanel.add(paletaRight2 = new JButton("maxLeft"));
+        subPanel.setLayout(new GridLayout(1,5));
+        container.add(subPanel);
 
-        container.add(paletaLeft2 = new JButton("maxLeft"),BorderLayout.LINE_START);
-        //container.add(paletaLeft1 = new JLabel("nearLeft"),BorderLayout.CENTER);
-        container.add(txt = new JTextField("Hello world!"),BorderLayout.CENTER);
-        //container.add(paletaRight1 = new JLabel("nearRight"));
-        container.add(paletaRight2 = new JButton("maxLeft"),BorderLayout.LINE_END);
-
-
-
-
-
-        // Создание панели с последовательным расположением
-        // компонентов и выравниванием по правому краю
-        //JPanel flow = new JPanel(new FlowLayout(FlowLayout.RIGHT));
-        //flow.add(grid);
-        // Получение панели содержимого
-        //Container container = getContentPane();
-        // Размещение панели с кнопками внизу справа
-        //container.add(flow, BorderLayout.SOUTH);
 
         JLabel label = new JLabel("status:");
         label.setBorder(new BevelBorder(BevelBorder.LOWERED));
         add(label,BorderLayout.SOUTH);
-        //container.add(new JLabel ("East"), BorderLayout.EAST);
-
-        // При отсутствии 2-го параметра компонент размещается в центре
-        //container.add(new JButton("Центр"));
-        // Открываем окно
-        setVisible(true);
 
         JMenuBar mbar = new JMenuBar();
         setJMenuBar(mbar);
